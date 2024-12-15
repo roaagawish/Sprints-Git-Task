@@ -56,3 +56,13 @@ section h2 {
     margin-bottom: 10px;
 }
 
+/* Footer styles */
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
